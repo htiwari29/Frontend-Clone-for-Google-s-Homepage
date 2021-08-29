@@ -1,5 +1,5 @@
-# Google-search-clone
- A fully-functioning, responsive website which is a clone of Google Search, Google Advanced Search and Google Images purely made with HTML and CSS.  
+# Frontend Clone for Google's Homepage
+A fully-functioning, responsive website which is a clone of Google Search, Google Advanced Search and Google Images purely made with HTML and CSS.  
 
 # Youtube Video
 A short video where I go through the specifications of the project: https://youtu.be/6_kEoQrMeoE
